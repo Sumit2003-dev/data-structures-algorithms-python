@@ -129,4 +129,3 @@ MIT License
 Sumit Kumar Bharti  
 B.Tech – Computer Science (Data Science & AI)  
 Lucknow, Uttar Pradesh, India
-
